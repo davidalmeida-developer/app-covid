@@ -35,7 +35,7 @@ O container já inicializa com a tabela criada.
 
 ## Acessando a página
 
-Após o banco estar funcionando basta acessar a página pelo endereço configurado no servidor Apache, normalmente a porta padrão é 80, logo o acesso será em "http://localhost:80/app" 
+Após o banco estar funcionando basta acessar a página pelo endereço configurado no servidor Apache, normalmente a porta padrão é 80, logo o acesso será em "http://localhost:80/app-covid" 
 
 
 
